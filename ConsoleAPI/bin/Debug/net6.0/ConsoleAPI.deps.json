@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsoleAPI/1.0.0": {
+        "dependencies": {
+          "TaskManagerCommandsLib": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleAPI.dll": {}
+        }
+      },
+      "TaskManagerCommandsLib/1.0.0": {
+        "runtime": {
+          "TaskManagerCommandsLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAPI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TaskManagerCommandsLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

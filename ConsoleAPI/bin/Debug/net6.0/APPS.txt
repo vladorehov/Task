@@ -1,0 +1,1 @@
+NotePad	notepad	Paint	mspaint

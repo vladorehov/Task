@@ -1,0 +1,12 @@
+C:\Users\gigry\Documents\GitHub\TaskManager\TaskManager\TaskManagerCommandsLib\bin\Debug\net6.0\TaskManagerCommandsLib.deps.json
+C:\Users\gigry\Documents\GitHub\TaskManager\TaskManager\TaskManagerCommandsLib\bin\Debug\net6.0\TaskManagerCommandsLib.dll
+C:\Users\gigry\Documents\GitHub\TaskManager\TaskManager\TaskManagerCommandsLib\bin\Debug\net6.0\TaskManagerCommandsLib.pdb
+C:\Users\gigry\Documents\GitHub\TaskManager\TaskManager\TaskManagerCommandsLib\obj\Debug\net6.0\TaskManagerCommandsLib.csproj.AssemblyReference.cache
+C:\Users\gigry\Documents\GitHub\TaskManager\TaskManager\TaskManagerCommandsLib\obj\Debug\net6.0\TaskManagerCommandsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gigry\Documents\GitHub\TaskManager\TaskManager\TaskManagerCommandsLib\obj\Debug\net6.0\TaskManagerCommandsLib.AssemblyInfoInputs.cache
+C:\Users\gigry\Documents\GitHub\TaskManager\TaskManager\TaskManagerCommandsLib\obj\Debug\net6.0\TaskManagerCommandsLib.AssemblyInfo.cs
+C:\Users\gigry\Documents\GitHub\TaskManager\TaskManager\TaskManagerCommandsLib\obj\Debug\net6.0\TaskManagerCommandsLib.csproj.CoreCompileInputs.cache
+C:\Users\gigry\Documents\GitHub\TaskManager\TaskManager\TaskManagerCommandsLib\obj\Debug\net6.0\TaskManagerCommandsLib.dll
+C:\Users\gigry\Documents\GitHub\TaskManager\TaskManager\TaskManagerCommandsLib\obj\Debug\net6.0\refint\TaskManagerCommandsLib.dll
+C:\Users\gigry\Documents\GitHub\TaskManager\TaskManager\TaskManagerCommandsLib\obj\Debug\net6.0\TaskManagerCommandsLib.pdb
+C:\Users\gigry\Documents\GitHub\TaskManager\TaskManager\TaskManagerCommandsLib\obj\Debug\net6.0\ref\TaskManagerCommandsLib.dll
