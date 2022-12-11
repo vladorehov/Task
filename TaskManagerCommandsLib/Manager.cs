@@ -15,6 +15,7 @@ namespace TaskManagerCommandsLib
         private static List<ICommands> _commands = new List<ICommands>();
 
         /// <summary>
+        /// 
         /// Автоматически создает лист команд
         /// </summary>
         private void SetCommandsList()

@@ -10,6 +10,7 @@ namespace TaskManagerCommandsLib
     {
         /// <summary>
         /// Метод выполнить
+        /// 
         /// </summary>
         string Execute(string[] args);
         /// <summary>

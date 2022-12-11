@@ -18,6 +18,7 @@ namespace Program
 
         static void ConsoleCommandExecute(string comandName)
         {
+
             switch (comandName)
             {
                 case "Exit":
